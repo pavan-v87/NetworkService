@@ -1,2 +1,2 @@
 # NetworkService
-A library for provice Network service
+A library for providing Network service
